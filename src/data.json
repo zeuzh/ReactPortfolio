@@ -1,0 +1,20 @@
+[
+    {
+        "name": "JATE Text Editor",
+        "image": "./images/Jate.png",
+        "live": "https://jatetexteditorpwa-ce3f2154269c.herokuapp.com/",
+        "repo": "https://github.com/zeuzh/JateTextEditor"
+    },
+    {
+        "name": "Note Taker",
+        "image": "./images/notetaker.png",
+        "live": "https://note-taker144.herokuapp.com/",
+        "repo": "https://github.com/zeuzh/Note-Taker"
+    },
+    {
+        "name": "Make It Right",
+        "image": "./images/homepage.png",
+        "live": "https://zeuzh.github.io/MakeItRight/",
+        "repo": "https://github.com/zeuzh/MakeItRight"
+    }
+]

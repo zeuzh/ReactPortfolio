@@ -78,3 +78,20 @@ footer p {
   text-align: center;
 
 }
+
+.projCard img{
+width: 80%;
+}
+
+.projCard div a button {
+  width: 20% !important;
+}
+
+.projCard div a {
+  margin: 0 5px;
+}
+
+.portfolio {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
